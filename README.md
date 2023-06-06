@@ -1,1 +1,1 @@
-# finanças, um site de orcamento pessoal
+# finanças, um site de orçamento pessoal
